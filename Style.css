@@ -1,6 +1,6 @@
 body{
     text-align: center;
-  background-image: csgreenlandscapebg.jpg;
+  background-image: url("csgreenlandscapebg.jpg");
     font-family: Verdana;
     color: white;
 }
