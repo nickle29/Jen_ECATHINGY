@@ -1,7 +1,14 @@
 body{
     background-color: #b6b696;
     font-family: Courier New;
-}
-h1{
     text-align: center;
+}
+h3{
+    text-align: left;
+}
+p{
+    text-align: left
+}
+div{
+    padding: 25px 50px 25px 50px;
 }
