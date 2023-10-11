@@ -4,6 +4,8 @@ body{
     text-align: center;
 }
 div{
-    padding: 75px;
-    background-color: white;
+  background-color:#ffffff;
+  padding: 30px;
+  border-radius: 15px;
+  margin: 15px;
 }
