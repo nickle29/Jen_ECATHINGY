@@ -27,5 +27,7 @@ p{
     width: 40%;
 }
 #image-div{
-    text-align: center
+    text-align: center;
+    background-color: #b6b696;
+    border-radius: 0px;
 }
