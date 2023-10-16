@@ -17,3 +17,12 @@ h3{
 p{
     text-align: left;
 }
+#right{
+    float: right;
+    width: 50%;
+}
+
+#left{
+    float:left;
+    width: 50%;
+}
