@@ -11,3 +11,9 @@ div{
     border-color: black;
     border:solid;
 }
+h3{
+    text-align: left;
+}
+p{
+    text-align: left;
+}
