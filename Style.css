@@ -45,3 +45,9 @@ h2{
     background-color:black;
     text-color: white;
 }
+
+#header{
+    background-color: #eaeae1;
+    border-color: #eaeae1;
+    margin: 10%;
+}
