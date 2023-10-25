@@ -33,3 +33,10 @@ p{
     padding: 1%;
     margin: 1%;
 }
+
+#review-section{
+    text-align: right;
+    background-color:#eaeae1;
+    border-color:#eaeae1;
+    margin: 5%;
+}
