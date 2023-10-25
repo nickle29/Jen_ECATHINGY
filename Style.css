@@ -41,7 +41,7 @@ p{
     margin: 15% 1% 1% 1%;
 }
 
-#sections{
-    text-align: center;
-    background-color:#b6b696;
+h2{
+    background-color:black;
+    text-color: white;
 }
