@@ -41,13 +41,9 @@ p{
     margin: 15% 1% 1% 1%;
 }
 
-h2{
-    background-color: black;
-    text-color: white;
-}
-
 #header{
-    background-color: #eaeae1;
+    background-color: black;
     border-color: #eaeae1;
     margin: 10%;
+    text-color: white;
 }
