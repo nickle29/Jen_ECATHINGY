@@ -31,6 +31,7 @@ p{
 #left{
     float: left;
     width: 40%;
+    margin: 0px 1% 0px 40px;
 }
 #image-div{
     text-align: center;
@@ -50,5 +51,5 @@ p{
 #header{
     background-color: #eaeae1;
     border-color: #eaeae1;
-    margin: 10%;
+    margin: 0px 10% 0px 10%;
 }
