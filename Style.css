@@ -43,3 +43,9 @@ p{
     margin: 15% 1% 1% 1%;
 }
 
+#header{
+    width:100%;
+    background-color: black;
+    color: #eaeae1;
+}
+
