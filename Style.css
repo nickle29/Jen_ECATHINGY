@@ -44,8 +44,8 @@ p{
 }
 
 #fade-in{
-    animation: fade-in 3s;
-    -fade-animation: fade-in 3s;
+    animation: fade-in 5s;
+    -fade-animation: fade-in 5s;
 }
 
 @keyframes fade-in 
