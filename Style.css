@@ -48,11 +48,22 @@ p{
     -fade-animation: fade-in 3s;
 }
 
-@keyframes fade-in {
+@keyframes fade-in 
+{
     0% {
     opacity: 1;
 }
     100% {
         opacity: 100;
+    }
+}
+
+@-fade-keyframes fade-in
+{
+    0% {
+        opacity: 0;
+}
+100% {
+opacity:1;
 }
 }
