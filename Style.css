@@ -35,6 +35,12 @@ p{
     margin: 0px 1% 0px 40px;
 }
 
+#div-in-div{
+    border-color:#eaeae1;
+    background-color:#eaeae1;
+    margin: 25% 0% 0% 0%;
+        }
+
 #image-div{
     text-align: center;
     background-color: #b6b696;
