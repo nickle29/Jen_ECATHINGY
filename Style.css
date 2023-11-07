@@ -95,7 +95,7 @@ p{
   border-radius: 2.5px;
 }
 .btn:hover{
-  transform: translateY(10px);
+  transform: translateY(7px);
   background-color:#eaeae1;
   color:#b6b696;
 }
