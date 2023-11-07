@@ -86,11 +86,16 @@ p{
 }
 
 .btn{
-  background-color:#b6b696;
+  border: 5px solid #07497a;
+  padding: .5em 1em;
+  font-size: 2 rem;
+  background-color:#ebe1ca;
+  color:#07497a;
   transition: transform .5s;
+  border-radius: 2.5px;
 }
 .btn:hover{
   transform: translateY(10px);
-  background-color:#b6b696;
-  color:#b6b696;
+  background-color:#07497a;
+  color:#ebe1ca;
 }
