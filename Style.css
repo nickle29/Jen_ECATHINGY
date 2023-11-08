@@ -47,8 +47,8 @@ p{
 
 #image-div{
     text-align: center;
-    background-color: #b6b696;
-    border-color: #b6b696;
+    background-color: transparent;
+    border-color: transparent;
     padding: 1%;
     margin: 1%;
 }
