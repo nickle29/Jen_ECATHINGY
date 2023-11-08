@@ -1,5 +1,5 @@
 body{
-    background-color: #b6b696;
+    background: linear-gradient(to top right, #b6b696 0%, #666633 100%);
     font-family: Courier New;
     text-align: center;
 }
@@ -98,4 +98,28 @@ p{
   transform: translateY(7px);
   background-color:#eaeae1;
   color:#b6b696;
+}
+
+a:link {
+  color: #666633;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #25744d;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #25744d;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: green;
+  background-color: transparent;
+  text-decoration: underline;
 }
