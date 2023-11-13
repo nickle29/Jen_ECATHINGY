@@ -30,13 +30,14 @@ p{
 
 #right{
     float: right;
-    width: 40%;
+    width: 25%;
+    margin: 40px 1% 50px 0%
 }
 
 #left{
     float: left;
-    width: 40%;
-    margin: 0px 1% 0px 40px;
+    width: 55%;
+    margin: 40px 1% 0px 40px;
 }
 
 #div-in-div{
