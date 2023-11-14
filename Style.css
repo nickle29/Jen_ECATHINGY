@@ -49,11 +49,13 @@ p{
 #pic{
  margin: 0% 1% 3% 0%;
 float: left;
+border-color:#eaeae1;
 }
 
 #pic2{
  margin: 0% 1% 3% 1%;
 float:center;
+border-color:#eaeae1;
 }
 
 #image-div{
