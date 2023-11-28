@@ -1,5 +1,5 @@
 // Código en español
-alert("Hello! Welcome to my Page!");
+alert("heyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy");
 
 // English code
-console.log("I hope you enjoy learning JavaScript!");
+console.log("heyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy");
