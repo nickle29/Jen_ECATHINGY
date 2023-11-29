@@ -16,3 +16,8 @@ function printToConsole(input) {
 window.alert(input);
 
 }
+
+function printThingy(input) {
+window.alert(input);
+
+}
