@@ -21,3 +21,16 @@ function printThingy(input) {
 window.alert(input);
 
 }
+
+const person = {
+name:"Nickle",
+  age:69420,
+favcolor:"red",
+  
+}
+
+function printToAssignment(input) {
+  window.alert(person.age)
+  console.log(person.name + person.favcolor)
+  
+  
