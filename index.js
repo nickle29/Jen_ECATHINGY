@@ -33,6 +33,7 @@ function printToAssignment(input) {
   window.alert(person.age),
   console.log(person.name),
 
+
 }
   
   
