@@ -30,8 +30,8 @@ favcolor:"red",
 }
 
 function printToAssignment(input) {
-  window.alert(person.age)
-  console.log(person.name)
+  window.alert(person.age),
+  console.log(person.name),
 
 }
   
