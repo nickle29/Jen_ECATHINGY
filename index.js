@@ -24,6 +24,11 @@ function assignment(){
   window.alert(person.firstName + " is " + person.age + " years old ");
 }
 
+function assignment2(){
+  console.log(person.firstName + "likes the color" + person.favColor);
+
+}
+
 function printToConsole(input) {
 window.alert(input);
 
