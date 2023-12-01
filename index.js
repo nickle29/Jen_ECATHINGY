@@ -13,7 +13,8 @@ function changeText(){
 }
 
 function printToConsole(input) {
-window.alert(input);
+window.alert(person.age);
+  console.log(person.favcolor);
 
 }
 
