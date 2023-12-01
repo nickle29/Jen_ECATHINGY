@@ -25,7 +25,7 @@ function assignment(){
 }
 
 function assignment2(){
-  console.log(person.firstName + "likes the color" + person.favColor);
+  console.log(person.firstName + " likes the color " + person.favColor);
 
 }
 
