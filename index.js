@@ -1,6 +1,6 @@
 let nameOfElement;
 nameOfElement = "demo";
-console.log("Books are life fr fr");
+console.log(person.age);
 
 // Código en español
 alert("heyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy");
@@ -8,15 +8,10 @@ alert("heyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy");
 // English code
 console.log("heyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy");
 
-function changeText(){
-  document.getElementById("demo").innerHTML = "If you like your coffee hot...";
+function assignment(){
+  document.getElementById("demo").innerHTML = person.name + "is" + person.age "years old";
 }
 
-function printToConsole(input) {
-window.alert(person.age);
-  console.log(person.favcolor);
-
-}
 
 function printThingy(input) {
 window.alert(input);
