@@ -21,7 +21,7 @@ firstName: "Nickle",
 
 function assignment(){
   person.age ++;
-  window.alert(person.name "is" person.age "years old");
+  window.alert(person.name + "is" + person.age + "years old");
 }
 
 function printToConsole(input) {
