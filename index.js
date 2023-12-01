@@ -22,11 +22,6 @@ window.alert(input);
 
 }
 
-let assignment;
-assignment = "idk";
-console.log(person.age)
-
-
 const person = {
 name:"Nickle",
   age:69420,
@@ -34,11 +29,5 @@ favcolor:"red",
   
 }
 
-function printToAssignment(input) {
-  window.alert(person.age),
-  console.log(person.name),
-
-
-}
   
   
