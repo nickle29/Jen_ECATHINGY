@@ -22,6 +22,11 @@ window.alert(input);
 
 }
 
+let assignment;
+assignment = "idk";
+console.log(person.age)
+
+
 const person = {
 name:"Nickle",
   age:69420,
