@@ -8,7 +8,7 @@ alert("Welcome Girlypops");
 // English code
 console.log("heyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy");
 
-function changeText(){
+function picChange(){
   document.getElementById("demo").innerHTML = "If you like your coffee hot...";
 }
 
