@@ -19,9 +19,14 @@ firstName: "Nickle",
 
 };
 
+let website = {
+siteAge:86,
+  siteName: "Jens Book Blog",
+}
+
 function assignment(){
   person.age ++;
-  window.alert(person.firstName + " is " + person.age + " years old ");
+  window.alert(website.siteName + " is " + website.siteAge + " dayss old ");
 }
 
 function assignment2(){
@@ -38,5 +43,7 @@ function printThingy(input) {
 window.alert(input);
 
 }
+
+
 
 
