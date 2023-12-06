@@ -26,7 +26,7 @@ siteAge:86,
 
 function assignment(){
   person.age ++;
-  window.alert(website.siteName + " is " + website.siteAge + " dayss old ");
+  window.alert(website.siteName + " is " + website.siteAge + " days old as of December 5th ");
 }
 
 function assignment2(){
