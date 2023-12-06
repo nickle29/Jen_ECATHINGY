@@ -44,6 +44,11 @@ window.alert(input);
 
 }
 
-
+var d1 = new Date("09/11/2023");   
+var d2 = new Date();   
+var diff = d2.getTime() - d1.getTime();   
+  
+var daydiff = (diff / 31536000000).toFixed(0);     
+document.write(" Total numbers of dayss since <b> September 11 2023 </b> is: <b> " + daydiff + " days </b>" )
 
 
