@@ -53,4 +53,18 @@ d1: new Date("09/11/2023")
 function daydiff;     
 window.alert("Jens book blog is" site.diff + "days old" )
 
+let date1 = new Date("06/24/2019");
+let date2 = new Date("07/29/2019");
+
+// To calculate the time difference of two dates
+let Difference_In_Time = date2.getTime() - date1.getTime();
+
+// To calculate the no. of days between two dates
+let Difference_In_Days = 
+	Math.round(Difference_In_Time / (1000 * 3600 * 24));
+
+// To display the final no. of days (result)
+console.log("Total number of days between dates:\n" +
+	date1.toDateString() + " and " + date2.toDateString() +
+	" is: " + Difference_In_Days + " days");
 
