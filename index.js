@@ -58,7 +58,7 @@ window.alert(input);
 
 // To display the final no. of days (result)
 
-function Days {
+function Days() {
 // To display the final no. of days (result)
 window.alert ("It's been " +  Difference_In_Days + " days");
 }
