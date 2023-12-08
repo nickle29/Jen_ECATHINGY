@@ -55,7 +55,14 @@ let Difference_In_Days =
 	Math.round(Difference_In_Time / (1000 * 3600 * 24));
 
 // To display the final no. of days (result)
-console.log("Total number of days between dates:\n" +
+window.alert ("Total number of days between dates:\n" +
 	date1.toDateString() + " and " + date2.toDateString() +
 	" is: " + Difference_In_Days + " days");
+
+function Days {
+// To display the final no. of days (result)
+window.alert ("Total number of days between dates:\n" +
+	date1.toDateString() + " and " + date2.toDateString() +
+	" is: " + Difference_In_Days + " days");
+}
 
