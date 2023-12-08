@@ -44,17 +44,8 @@ window.alert(input);
 
 }
 
-let site() {
-d1: new Date("09/11/2023")
-  d2: new Date()
-  diff = d2.getTime() - d1.getTime()
-}
-  
-function daydiff;     
-window.alert("Jens book blog is" site.diff + "days old" )
-
-let date1 = new Date("06/24/2019");
-let date2 = new Date("07/29/2019");
+let date1 = new Date("");
+let date2 = new Date();
 
 // To calculate the time difference of two dates
 let Difference_In_Time = date2.getTime() - date1.getTime();
