@@ -1,4 +1,15 @@
 let nameOfElement;
+
+let date1 = new Date("9/11/23");
+let date2 = new Date();
+
+// To calculate the time difference of two dates
+let Difference_In_Time = date2.getTime() - date1.getTime();
+
+// To calculate the no. of days between two dates
+let Difference_In_Days = 
+	Math.round(Difference_In_Time / (1000 * 3600 * 24));
+
 nameOfElement = "demo";
 console.log("Books are life fr fr");
 
@@ -44,25 +55,11 @@ window.alert(input);
 
 }
 
-let date1 = new Date("");
-let date2 = new Date();
-
-// To calculate the time difference of two dates
-let Difference_In_Time = date2.getTime() - date1.getTime();
-
-// To calculate the no. of days between two dates
-let Difference_In_Days = 
-	Math.round(Difference_In_Time / (1000 * 3600 * 24));
 
 // To display the final no. of days (result)
-window.alert ("Total number of days between dates:\n" +
-	date1.toDateString() + " and " + date2.toDateString() +
-	" is: " + Difference_In_Days + " days");
 
 function Days {
 // To display the final no. of days (result)
-window.alert ("Total number of days between dates:\n" +
-	date1.toDateString() + " and " + date2.toDateString() +
-	" is: " + Difference_In_Days + " days");
+window.alert ("It's been " +  Difference_In_Days + " days");
 }
 
